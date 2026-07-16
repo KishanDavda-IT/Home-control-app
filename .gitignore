@@ -1,0 +1,52 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub
+/flutter_export_environment.sh
+/flutter_export_environment.bat
+/Flutter Runner.exe
+
+# Build and artifacts
+build/
+web/
+android/app/src/main/res/drawable-*/splashimage*.png
+android/app/src/main/res/drawable-*/*splash*.xml
+android/app/src/main/res/drawable-*/*launch*.xml
+android/app/src/main/res/drawable-*/*icon*.png
+android/app/src/main/res/drawable-*/*launcher*.png
+android/app/src/main/res/drawable-*/*webp*.png
+android/app/src/main/res/drawable-*/*avif*.png
+
+# Large files and binaries
+*.zip
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE and editor files
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Flutter specific
+pubspec.lock

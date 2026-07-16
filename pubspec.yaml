@@ -1,0 +1,36 @@
+name: lightfan_controller
+description: A Flutter app to control Shelly smart lights, fans, switches, and relays on your local network.
+author: LightFan Controller Contributors <contributors@lightfan-controller.example>
+homepage: https://github.com/lightfan-controller/lightfan-controller
+repository: https://github.com/lightfan-controller/lightfan-controller
+issue_tracker: https://github.com/lightfan-controller/lightfan-controller/issues
+license: MIT
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  network_info_plus: ^6.0.1
+  connectivity_plus: ^6.0.5
+  permission_handler: ^11.3.1
+  uuid: ^4.5.1
+  flutter_secure_storage: ^9.2.2
+  mdns: ^1.0.0
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
