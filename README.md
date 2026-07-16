@@ -1,11 +1,5 @@
 # LightFan Controller
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/lightfan-controller)
-![GitHub](https://img.shields.io/github/license/yourusername/lightfan-controller)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/lightfan-controller)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/lightfan-controller)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/lightfan-controller)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/lightfan-controller)
 
 A Flutter app to control **Shelly** smart lights, fans, switches, and relays on your **local network** — no cloud, no account, works offline.
 
